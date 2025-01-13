@@ -8,8 +8,6 @@ https://myamai.neocities.org/apb/localization
 
 
 
-
-
 ### Engine.ini
 
 
