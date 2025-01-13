@@ -3,7 +3,8 @@
 Created by Maoci and Kominiarz
 
 
-
+### Usefull sources:
+https://myamai.neocities.org/apb/localization
 
 
 
