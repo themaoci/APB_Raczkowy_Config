@@ -17,3 +17,6 @@ m_bUseDiskCache=True
 - Enable GC
 TimeBetweenPurgingPendingKillObjects=60
 GarbageCollectionMemoryCeilingGb=16.0
+
+### Outside Credits
+- https://github.com/altshadow69/apb-minimized
